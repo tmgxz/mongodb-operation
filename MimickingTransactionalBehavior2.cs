@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 namespace ConsoleApp_MongoDB
 {
     /// <summary>
-    ///注意！！！！！未完成，不可用
+    ///另一种实现，参考了官方文档
     /// </summary>
     public class MimickingTransactionalBehavior2
     {
